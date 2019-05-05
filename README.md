@@ -6,3 +6,4 @@
 Laravel 开发交流群（521295157），欢迎加入！
 
 更多视频请访问：http://www.mayanlong.com/laravel.html
+
